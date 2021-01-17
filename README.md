@@ -1,2 +1,3 @@
-# aghemo.com-blog
-Aghemo.com's Blog Posts
+# Aghemo.com's Blog Posts
+
+My own blog.

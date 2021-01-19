@@ -6,9 +6,9 @@ layout: post
 published: true_or_false
 author: daghemo
 tags:
-    - tag_pt
+    - pt
 categories:
-    - category_pc
+    - pc
 ---
 # Why it all started
 

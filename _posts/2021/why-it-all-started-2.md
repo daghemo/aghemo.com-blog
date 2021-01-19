@@ -10,8 +10,8 @@ published: true
 tags:
   - prova tag
 categories:
-  - pc
+  - prova categoria
 ---
 # Why it all started
 
-Hi, my name is Danilo Aghemo. And this is my fresh new Blog.
+Hi, my name is *Danilo Aghemo*. And this is my fresh new Blog.

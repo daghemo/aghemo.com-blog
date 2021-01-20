@@ -24,6 +24,6 @@ Some other code here...
 
 Back to the normality. But with an image!
 
-![Google news rss feed by topic](/images/just-another-try/coding.jpg)
+![Happy coding!](/images/just-another-try/coding.jpg)
 
 The text, again.

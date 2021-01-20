@@ -5,7 +5,8 @@ post_name: just-another-try
 author: daghemo
 post_date: 2021-01-19 18:30:00
 layout: post
-link: http://stage.aghemo.com/?p=357
+link: >
+  http://stage.aghemo.com/2021/01/19/just-another-try/
 published: true
 tags:
   - prova tag
@@ -14,13 +15,15 @@ categories:
 ---
 # Just another try
 
-This is just another try. Maybe just a longer one. Or maybe not. Don't know.
-This is just another try. Maybe just a longer one. Or maybe not. Don't know.
-This is just another try. Maybe just a longer one. Or maybe not. Don't know.
+This is just another try. Maybe just a longer one. Or maybe not. Don't know. This is just another try. Maybe just a longer one. Or maybe not. Don't know. This is just another try. Maybe just a longer one. Or maybe not. Don't know.
 
+<<<<<<< HEAD
 ```
 Some code here...
 Some other code here...
 ```
+=======
+Some code here... Some other code here...
+>>>>>>> 044f82f6c9cd06952d86ffe0ad3c930c83cf4b09
 
 Back to the normality.

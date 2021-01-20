@@ -17,13 +17,9 @@ categories:
 
 This is just another try. Maybe just a longer one. Or maybe not. Don't know. This is just another try. Maybe just a longer one. Or maybe not. Don't know. This is just another try. Maybe just a longer one. Or maybe not. Don't know.
 
-<<<<<<< HEAD
 ```
 Some code here...
 Some other code here...
 ```
-=======
-Some code here... Some other code here...
->>>>>>> 044f82f6c9cd06952d86ffe0ad3c930c83cf4b09
 
 Back to the normality.
